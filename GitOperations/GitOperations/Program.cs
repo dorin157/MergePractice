@@ -11,7 +11,8 @@ namespace GitOperations
         static void Main(string[] args)
         {
             var firstVariable = 12;
-            var secondVariable = 42;
+            var secondVariable = 422;
+            var thirdVar = 21;
         }
     }
 }
