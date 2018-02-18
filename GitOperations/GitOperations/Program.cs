@@ -11,8 +11,9 @@ namespace GitOperations
         static void Main(string[] args)
         {
             var firstVariable = 12;
-            var secondVariable = 422;
+            var secondVariable = 512;
             var thirdVar = 21;
+            var fourVar = 667;
             Console.WriteLine("Мій бюстгалтер");
             Console.ReadLine();
         }
