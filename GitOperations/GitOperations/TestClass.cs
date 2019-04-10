@@ -9,7 +9,7 @@ namespace GitOperations
     class TestClass
     {
         string testString = "test2";
-        int testInt = 421;
+        int testInt = 42;
         int uno = 1;
     }
 }
