@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,6 @@ namespace GitOperations
     {
         string testString = "test2m";
         int testInt = 42;
-        int uno = 1;
+        int uno = 2;
     }
 }
